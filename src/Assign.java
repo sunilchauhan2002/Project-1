@@ -3,6 +3,7 @@ import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
 import java.util.*;
 public class Assign {
     public static void main(String[]args){
+        System.out.println("send to relese_1");
         System.out.println("---welcome----");
         Scanner sc= new Scanner(System.in);
         System.out.println("Choose Any Option");
