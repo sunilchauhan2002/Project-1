@@ -2,6 +2,7 @@ import java.sql.SQLOutput;
 import java.util.*;
 public class Area {
     public static void main (String[]args){
+        System.out.println("COmmit to release_1");
         System.out.println("welcome");
         System.out.println("Diameter,Area calculator of circle ");
         Scanner sc =new Scanner(System.in);
